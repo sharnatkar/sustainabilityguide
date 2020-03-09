@@ -1,0 +1,111 @@
+.main{
+    text-align: center;
+    background: url(./Images/Leaf\ Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-brand{
+    font-family: 'Rouge Script', cursive;
+    font-size: 25px;
+    float:left;
+}
+.about{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    justify-content: center;
+}
+.text{
+    width: 900px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav{
+    background-color:white;
+    font-size: 25px;
+    width: 100%;
+}
+ul{
+    list-style-type: none;
+    padding: 5px;
+    margin: 10px;
+    justify-content: center;
+    width: 100%;
+}
+li {
+    display: inline;
+    padding-right: 30px;
+    text-align: center;
+}
+h1{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+h2{
+    font-size: 100px;
+    font-family: 'Rouge Script', cursive;
+    font-weight: 500;
+
+}
+h3{
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+}
+h4{
+    font-size: 40px;
+    font-family: 'Kristi', cursive; 
+}
+p{
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+}
+footer{
+    text-align: center;
+}
+.events{
+    width: 75%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border:2.5px solid  rgba(73, 172, 73, 0.932);
+}
+.events h3{
+    font-size: 18px;
+}
+.events p{
+    font-size:13px;
+}
+.form{
+    display:flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: left;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: left;
+    
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: rgba(73, 172, 73, 0.932);
+    font-family: 'Bebas Neue', cursive;
+}
+body{
+    background-color: white;
+}
+.tagline{
+    background-color: white;
+    width: fit-content;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
